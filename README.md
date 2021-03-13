@@ -10,7 +10,7 @@
 -Principais Métodos
 <br><br>
 <h3>Resumo aula:</h3><br>
-**O que é objeto** = É um um tipo de dado que contém uma coleção de propriedades a respeito do objeto, organizados em pares de "chaves" e "valores".
+O que é objeto = É um um tipo de dado que contém uma coleção de propriedades a respeito do objeto, organizados em pares de "chaves" e "valores".
 <br>
 -Quais as características que o compoe = Chaves e Valores dentro do simbolo "{}" (chaves);
 <br>
@@ -21,7 +21,7 @@ const pessoa1 = {<br>
   idade: 25,<br>
   profissao: 'desenvolvedora',<br>
 };<br><br>
----------------------------------------- <br>
+---------------------------------------- <br><br>
 const pessoa2 = new Object();<br>
 
 pessoa2.nome = 'Ariel';<br>
@@ -46,7 +46,7 @@ console.log(pessoa1["idade"]);<br>
 console.log(objeto.chave); <br>
 console.log(objeto["chave"]);<br>
 
-**O que é chave/propriedade**<br>
+O que é chave/propriedade = <br>
 -Quais as características que o compoe = são os pares dentro do simbolo "{}"<br>
 -Para que serve =  descrever ou caracterizar um objeto<br>
 -Sintaxe =<br>
@@ -56,10 +56,17 @@ const nome = {<br>
   chave: 'valor'<br>
 };<br><br>
 
-*O que é valor<br>
--Quais as características que o compoe<br>
--Para que serve<br>
--Sintaxe <br><br>
+O que é valor = É a parte que descreve a chave.<br>
+-Quais as características que o compoe = <br>
+const nome = {<br>
+  chave: <strong>'valor',</strong><br>
+};<br><br><br>
+-Para que serve = para descrever as atribuições de um objeto.<br>
+-Sintaxe = <br>
+const nome = {<br>
+  chave: <strong>'valor',</strong><br>
+};
+<br><br>
 
 
 -O que é método<br>
