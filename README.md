@@ -7,7 +7,7 @@ Conteúdos gerais abordados:<br>
 -Objeto<br>
 -Classes <br>
 -Principais Métodos
-<br>
+<br><br>
 Resumo aula:<br>
 *O que é objeto = É um um tipo de dado que contém uma coleção de propriedades a respeito do objeto, organizados em pares de "chaves" e "valores".
 <br>
