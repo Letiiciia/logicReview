@@ -4,12 +4,12 @@
 </h1>
 <p align="center">🚀 Tema: Objetos </p>
 <br>
-Conteúdos gerais abordados:<br>
+<h3>Conteúdos gerais abordados:</h3><br>
 -Objeto<br>
 -Classes <br>
 -Principais Métodos
 <br><br>
-Resumo aula:<br>
+<h3>Resumo aula:</h3><br>
 **O que é objeto** = É um um tipo de dado que contém uma coleção de propriedades a respeito do objeto, organizados em pares de "chaves" e "valores".
 <br>
 -Quais as características que o compoe = Chaves e Valores dentro do simbolo "{}" (chaves);
