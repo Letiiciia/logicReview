@@ -1,6 +1,6 @@
 # logicReview
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 Semana1- Módulo1 (Introdução a programação)</a>
+    <a> Semana1- Módulo1 (Introdução a programação)</a>
 </h1>
 <p align="center">🚀 Tema: Objetos </p>
 <br>
