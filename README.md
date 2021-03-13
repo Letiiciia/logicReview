@@ -1,7 +1,8 @@
 # logicReview
-Semana1- Módulo1 (Introdução a programação) 
-<br>
-<h1> Tema: Objetos </h1>
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 Semana1- Módulo1 (Introdução a programação)</a>
+</h1>
+<p align="center">🚀 Tema: Objetos </p>
 <br>
 Conteúdos gerais abordados:<br>
 -Objeto<br>
@@ -9,7 +10,7 @@ Conteúdos gerais abordados:<br>
 -Principais Métodos
 <br><br>
 Resumo aula:<br>
-*O que é objeto = É um um tipo de dado que contém uma coleção de propriedades a respeito do objeto, organizados em pares de "chaves" e "valores".
+**O que é objeto** = É um um tipo de dado que contém uma coleção de propriedades a respeito do objeto, organizados em pares de "chaves" e "valores".
 <br>
 -Quais as características que o compoe = Chaves e Valores dentro do simbolo "{}" (chaves);
 <br>
@@ -41,11 +42,11 @@ const nome = {<br>
 console.log(pessoa1.idade); <br>
 console.log(pessoa1["idade"]);<br>
 
--Sitaxe de acesso de um objeto <br>
+-Sitaxe de acesso de um objeto = <br>
 console.log(objeto.chave); <br>
 console.log(objeto["chave"]);<br>
 
-*O qué chave/propriedade<br>
+**O que é chave/propriedade**<br>
 -Quais as características que o compoe = são os pares dentro do simbolo "{}"<br>
 -Para que serve =  descrever ou caracterizar um objeto<br>
 -Sintaxe =<br>
