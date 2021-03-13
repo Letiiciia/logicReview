@@ -81,3 +81,31 @@ const nome = {<br>
 - `seal` impede que as propriedades do objeto sejam excluídas.
 - `values` retorna uma lista com todos os valores que correspondem a todas as propriedades enumeráveis do objeto.<br><br>
 
+O que é um array = É um tipo de lista que contém uma coleção de elementos de várias formas de dados, String, number, bolean, entre outros.
+<br>
+
+Exemplo: <br>
+const alunasReprograma = ['Andreia', 'Fernanda', 'Mariana', ...]; <br><br>
+Acessando um item do array = <br>
+Para acessar o valor de um Array, use a notação de colchetes e informe a posição que deseja acessar, lembrando que a contagem começa em zero.<br><br>
+
+const alunasReprograma = ['Andreia', 'Fernanda', 'Mariana', ...];<br>
+
+console.log(alunasReprograma[0]) // Andreia<br>
+console.log(alunasReprograma[1]) // Fernanda<br>
+console.log(alunasReprograma[2]) // Mariana<br>
+
+
+### Principais métodos
+
+- `filter` retorna um novo array com os elementos filtrados.
+- `find` retorna o primeiro elemento que achar igual ao elemento passado por parâmetro.
+- `indexOf` retorna a posição do item passado por parâmetro ou -1 caso não tenha encontrado.
+- `length` retorna um número que representa o tamanho do array.
+- `map` retorna um novo array sem alterar o array original, criando uma cópia com as alterações que desejamos.
+- `pop` remove e retorn o último item do array.
+- `push` adiciona um item na última posição do array.
+- `shift` remove e retorna o primeiro item do array.
+- `slice` copia o array para outra variável.
+- `splice` remove o item da posição passada por parâmetro.
+- `unshift` adiciona um item na primeira posição do array.
