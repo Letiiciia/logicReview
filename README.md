@@ -80,7 +80,15 @@ const nome = {<br>
 - `keys` retorna uma lista contendo os nomes de todas as propriedades enumeráveis do objeto.
 - `seal` impede que as propriedades do objeto sejam excluídas.
 - `values` retorna uma lista com todos os valores que correspondem a todas as propriedades enumeráveis do objeto.<br><br>
-
+<h1 align="center">
+    <a> Semana2- Módulo1 (Introdução a programação)</a>
+</h1>
+<p align="center">🚀 Tema: Arrays </p>
+<br>
+<h3>Conteúdos gerais abordados:</h3><br>
+-Arrays<br>
+-Principais Métodos
+<br><br>
 O que é um array = É um tipo de lista que contém uma coleção de elementos de várias formas de dados, String, number, bolean, entre outros.
 <br>
 
