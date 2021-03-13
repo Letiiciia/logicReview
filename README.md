@@ -21,7 +21,7 @@ const pessoa1 = {<br>
   idade: 25,<br>
   profissao: 'desenvolvedora',<br>
 };<br><br>
-----------------------------------------
+---------------------------------------- <br>
 const pessoa2 = new Object();<br>
 
 pessoa2.nome = 'Ariel';<br>
