@@ -21,7 +21,7 @@ const pessoa1 = {<br>
   idade: 25,<br>
   profissao: 'desenvolvedora',<br>
 };<br><br>
----------------------------------------- <br><br>
+
 const pessoa2 = new Object();<br>
 
 pessoa2.nome = 'Ariel';<br>
@@ -46,8 +46,7 @@ console.log(pessoa1["idade"]);<br>
 console.log(objeto.chave); <br>
 console.log(objeto["chave"]);<br>
 
-O que é chave/propriedade = <br>
--Quais as características que o compoe = são os pares dentro do simbolo "{}"<br>
+O que é chave/propriedade = são os pares dentro do simbolo "{}" <br>
 -Para que serve =  descrever ou caracterizar um objeto<br>
 -Sintaxe =<br>
 const nome = {<br>
@@ -69,14 +68,16 @@ const nome = {<br>
 <br><br>
 
 
--O que é método<br>
--Quais as características que o compoe<br>
--Para que serve<br>
--Sintaxe <br>
+-O que é método = são açoes/auto modificações dentro do objeto.<br>
+-Quais as características que o compoe = Function(){}<br>
 -Quais os principais métodos que podem ser usados com objetos em JS?<br>
--Para que servem esses principais métodos?<br><br>
+### Principais métodos
 
+- `assing` copia todas as propriedades enumeráveis de um objeto para outro.
+- `entries` retorna uma lista contendo todos os pares (chave, valor) das propriedades enumeráveis do objeto.
+- `freeze` impede que as propriedades do objeto sejam excluídas ou alteradas.
+- `hasOwnProperty` retorna um _booleano_ indicando se o objeto possui a propriedade especificada
+- `keys` retorna uma lista contendo os nomes de todas as propriedades enumeráveis do objeto.
+- `seal` impede que as propriedades do objeto sejam excluídas.
+- `values` retorna uma lista com todos os valores que correspondem a todas as propriedades enumeráveis do objeto.<br><br>
 
--Qual a diferença entre objeto e método<br><br>
-
-Exercícios
