@@ -67,7 +67,7 @@ console.log("--------------------------------")
 
 console.log(Object.keys(obj)); //Retorna as propriedades/chaves
 
-console.log("--------------------------------")
+
 
 //seal
 
