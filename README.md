@@ -14,14 +14,14 @@
 <br>
 -Quais as características que o compoe = Chaves e Valores dentro do simbolo "{}" (chaves);
 <br>
--Quais as forma de se construir um objeto??
+-Quais as formas de se construir um objeto??
 <h3>Contrução do Objeto</h3>
 const pessoa1 = {<br>
   nome: 'Ariel',<br>
   idade: 25,<br>
   profissao: 'desenvolvedora',<br>
 };<br><br>
-
+----------------------------------------
 const pessoa2 = new Object();<br>
 
 pessoa2.nome = 'Ariel';<br>
