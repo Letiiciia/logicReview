@@ -37,7 +37,7 @@ Imagem com dois retângulos lado a lado. O primeiro representa uma classe, apena
 
 Assim, abstraindo um pouco a analogia, uma classe é um conjunto de características e comportamentos que definem o conjunto de objetos pertencentes à essa classe. Repare que a classe em si é um conceito abstrato, como um molde, que se torna concreto e palpável através da criação de um objeto. Chamamos essa criação de instanciação da classe, como se estivéssemos usando esse molde (classe) para criar um objeto.
 
-<img src = "class-analogy.png>
+<img src = "[class-analogy.png](https://github.com/Letiiciia/logicReview/blob/master/img/class-analogy.png)>
 
 
 -Sintaxe de contrução do objeto
