@@ -3,30 +3,29 @@ Semana1- Módulo1 (Introdução a programação)
 <br>
 <h1> Tema: Objetos </h1>
 <br>
-Conteúdos gerais abordados:
--Objeto
--Classes 
+Conteúdos gerais abordados:<br>
+-Objeto<br>
+-Classes <br>
 -Principais Métodos
 <br>
-Resumo aula:
+Resumo aula:<br>
 *O que é objeto = É um um tipo de dado que contém uma coleção de propriedades a respeito do objeto, organizados em pares de "chaves" e "valores".
 <br>
 -Quais as características que o compoe = Chaves e Valores dentro do simbolo "{}" (chaves);
 <br>
--Quais as forma de se construir um objeto =
-<br>
+-Quais as forma de se construir um objeto??
 <h3>Contrução do Objeto</h3>
-const pessoa1 = {
-  nome: 'Ariel',
-  idade: 25,
-  profissao: 'desenvolvedora',
-};
+const pessoa1 = {<br>
+  nome: 'Ariel',<br>
+  idade: 25,<br>
+  profissao: 'desenvolvedora',<br>
+};<br>
 
-const pessoa2 = new Object();
+const pessoa2 = new Object();<br>
 
-pessoa2.nome = 'Ariel';
-pessoa2.idade = 25;
-pessoa2.profissao = 'desenvolvedora';
+pessoa2.nome = 'Ariel';<br>
+pessoa2.idade = 25;<br>
+pessoa2.profissao = 'desenvolvedora';<br>
 <br>
 -Para que serve = O objeto é útl para agrupar caracteristicar, descrições ou ações de um objeto.
 <br>
