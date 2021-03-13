@@ -19,7 +19,7 @@ const pessoa1 = {<br>
   nome: 'Ariel',<br>
   idade: 25,<br>
   profissao: 'desenvolvedora',<br>
-};<br>
+};<br><br>
 
 const pessoa2 = new Object();<br>
 
@@ -27,16 +27,16 @@ pessoa2.nome = 'Ariel';<br>
 pessoa2.idade = 25;<br>
 pessoa2.profissao = 'desenvolvedora';<br>
 <br>
--Para que serve = O objeto é útl para agrupar caracteristicar, descrições ou ações de um objeto.
+-Para que serve = O objeto é útil para agrupar caracteristicas, descrições ou ações de um objeto.
 <br>
 
 -Sintaxe de contrução do objeto = <br>
-const nome = {
-  chave: 'valor',
-  chave: 'valor',
-  chave: 'valor'
+const nome = {<br>
+  chave: 'valor',<br>
+  chave: 'valor',<br>
+  chave: 'valor'<br>
 };
-<br>
+<br><br>
 -Quais as formas de acessar um objeto = <br>
 console.log(pessoa1.idade); <br>
 console.log(pessoa1["idade"]);<br>
@@ -45,30 +45,30 @@ console.log(pessoa1["idade"]);<br>
 console.log(objeto.chave); <br>
 console.log(objeto["chave"]);<br>
 
-*O qué chave/propriedade
--Quais as características que o compoe = são os pares dentro do simbolo "{}"
--Para que serve =  descrever ou caracterizar um objeto
--Sintaxe =
-const nome = {
-  chave: 'valor',
-  chave: 'valor',
-  chave: 'valor'
-};
+*O qué chave/propriedade<br>
+-Quais as características que o compoe = são os pares dentro do simbolo "{}"<br>
+-Para que serve =  descrever ou caracterizar um objeto<br>
+-Sintaxe =<br>
+const nome = {<br>
+  chave: 'valor',<br>
+  chave: 'valor',<br>
+  chave: 'valor'<br>
+};<br><br>
 
-*O que é valor
--Quais as características que o compoe
--Para que serve
--Sintaxe 
-
-
--O que é método
--Quais as características que o compoe
--Para que serve
--Sintaxe 
--Quais os principais métodos que podem ser usados com objetos em JS?
--Para que servem esses principais métodos?
+*O que é valor<br>
+-Quais as características que o compoe<br>
+-Para que serve<br>
+-Sintaxe <br><br>
 
 
--Qual a diferença entre objeto e método
+-O que é método<br>
+-Quais as características que o compoe<br>
+-Para que serve<br>
+-Sintaxe <br>
+-Quais os principais métodos que podem ser usados com objetos em JS?<br>
+-Para que servem esses principais métodos?<br><br>
+
+
+-Qual a diferença entre objeto e método<br><br>
 
 Exercícios
